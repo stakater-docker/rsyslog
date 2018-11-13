@@ -46,7 +46,7 @@
                         "containers": [
                             {
                                 "name": "rsyslog",
-                                "image": "stakater/rsyslog:v1",
+                                "image": "stakater/rsyslog:0.0.1",
                                 "ports": [
                                     {
                                         "name": "rsyslog-udp",
